@@ -1,0 +1,16 @@
+{
+  "name": "choosing-agent-components",
+  "version": "0.1.0",
+  "description": "A decision order from 'nothing' to 'plugin' that picks the cheapest component that reliably does the job.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/choosing-agent-components",
+  "repository": "https://github.com/nvv-dev/choosing-agent-components",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "agent-guardrails"
+  ]
+}
